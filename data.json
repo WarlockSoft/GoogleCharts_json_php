@@ -1,0 +1,109 @@
+{
+  "january":
+	{
+  "html, css": 22,
+  "python": 26,
+  "mysql": 15,
+  "php": 35,
+  "perl": 32,
+  "javascript": 30
+	},
+  "february":
+	{
+  "python": 27,
+  "mysql": 18,
+  "html, css": 20,
+  "php": 39,
+  "perl": 31,
+  "javascript": 32
+	},
+  "march":
+	{
+  "python": 28,
+  "mysql": 19,
+  "html, css": 22,
+  "perl": 31,
+  "php": 32,
+  "javascript": 32
+	},
+  "april":
+	{
+  "python": 24,
+  "mysql": 17,
+  "php": 36,
+  "html, css": 32,
+  "perl": 30,
+  "javascript": 28
+	},
+  "may":
+	{
+  "python": 27,
+  "mysql": 16,
+  "php": 38,
+  "perl": 39,
+  "javascript": 33
+	},
+  "june":
+	{
+  "python": 24,
+  "mysql": 19,
+  "php": 33,
+  "perl": 40,
+  "javascript": 31,
+  "html, css": 29
+	},
+  "july":
+	{
+  "python": 24,
+  "mysql": 19,
+  "php": 34,
+  "html, css": 22,
+  "perl": 29,
+  "javascript": 36
+	},
+  "august":
+	{
+  "html, css": 28,
+  "python": 29,
+  "mysql": 15,
+  "php": 40,
+  "perl": 39,
+  "javascript": 31
+	},
+  "september":
+	{
+  "html, css": 29,
+  "python": 25,
+  "mysql": 21,
+  "php": 34,
+  "perl": 35,
+  "javascript": 32
+	},
+  "october":
+	{
+  "html, css": 28,
+  "python": 22,
+  "mysql":24,
+  "php": 34,
+  "perl": 33,
+  "javascript": 31
+	},
+  "november":
+	{
+  "html, css": 22,
+  "python": 29,
+  "mysql": 14,
+  "php": 33,
+  "perl": 31,
+  "javascript": 31
+	},
+  "december":
+	{
+  "html, css": 28,
+  "python": 26,
+  "mysql": 15,
+  "php": 39,
+  "perl": 40,
+  "javascript": 35
+	}
+}
